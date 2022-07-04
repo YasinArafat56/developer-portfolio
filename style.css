@@ -8,9 +8,9 @@ h1{
 .yasin{
     color: rgb(154, 205, 50) ;
 }
-section{
+.flexiable-container{
     display: flex;
-    margin: 100px;
+    margin: 150px;
 }
 .half-width{
     width: 50%;
